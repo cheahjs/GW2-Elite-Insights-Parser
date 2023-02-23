@@ -1896,6 +1896,7 @@ namespace GW2EIEvtcParser
         public const long MeatyAsparagusSkewer = 64568;
         public const long PoisonRoar = 64576;
         public const long MagicHail = 64582;
+        public const long VoidExplosion3 = 64585;
         public const long DragonSlashRush2 = 64619;
         public const long DragonsEndContributor8 = 64623;
         public const long WaveOfTorment = 64669;
